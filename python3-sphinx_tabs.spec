@@ -1,4 +1,5 @@
 Summary:	Tabbed views for Sphinx
+Summary(pl.UTF-8):	Przeglądanie w zakładkach dla Sphinksa
 Name:		python3-sphinx_tabs
 Version:	3.4.1
 Release:	1
@@ -19,6 +20,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Create tabbed content in Sphinx documentation when building HTML.
+
+%description -l pl.UTF-8
+Tworzenie treści w zakładkach w dokumentacji Sphinksa w formacie HTML.
 
 %prep
 %setup -q -n sphinx-tabs-%{version}
