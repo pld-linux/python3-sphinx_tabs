@@ -1,13 +1,13 @@
 Summary:	Tabbed views for Sphinx
 Summary(pl.UTF-8):	Przeglądanie w zakładkach dla Sphinksa
 Name:		python3-sphinx_tabs
-Version:	3.4.1
+Version:	3.4.7
 Release:	1
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx-tabs/
 Source0:	https://files.pythonhosted.org/packages/source/s/sphinx-tabs/sphinx-tabs-%{version}.tar.gz
-# Source0-md5:	d06fe3a74cba52bba224ca7947164a32
+# Source0-md5:	114f4336f6ae286020761e77a8629981
 URL:		https://pypi.org/project/sphinx-tabs/
 BuildRequires:	python3-modules >= 1:3.7
 BuildRequires:	python3-setuptools
